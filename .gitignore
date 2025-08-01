@@ -1,0 +1,16 @@
+# Java build artifacts
+/target/
+*.class
+*.log
+
+# IDE-specific files
+/.idea/
+/*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IntelliJ config
+.idea/
+*.iml
